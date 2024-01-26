@@ -1,0 +1,7 @@
+.card {
+    width: 450px;
+}
+
+main .card img.card-img-top {
+    height: 100%;
+}
